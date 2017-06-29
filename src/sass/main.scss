@@ -1,0 +1,12 @@
+$primaryColor:#ddd;
+
+body {
+  background-color: $primaryColor;
+  margin: 0;
+  padding: 0;
+  p {
+    background: #fff;
+    border-radius: 4px;
+    padding: 20px;
+  }
+}
